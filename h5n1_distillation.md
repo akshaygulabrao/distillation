@@ -26,3 +26,44 @@ Distillation of [Alexander, Scott. "H5N1: Much More Than You Wanted To Know". 20
     - 200K people died
 
 ## The Bird Flu
+1. Influenza A evolved in birds
+2. It usually mixes with a human flu virus 
+3. Pigs are vulnerable to both bird and human flu viruses
+    - No real epidemiological differences between from-birds and from-pigs
+4. Every human it infects increases the chance of a viable human-to-human virus
+
+## What is the Chance of Pandemic?
+1. Prediction markets bets on >10k cases by EOY
+    - Manifold: 40%
+    - Metaculus: 5%
+2. Metaculus seems to be more accurate
+    - hosts disease-forceasting competitions
+3. 2 strong Metacalculus forecasters:
+    - Unlikely more than one mutation away
+        - Other similar viruses went nowhere
+4. Pandemic before 2030:
+    - Manifold: 50%
+    - Metaculus: 30%
+
+## Theoretical Fatality Rate
+1. Case for 50%:
+    - Some rumors but evidence is weak
+2. Case for 1.25%:
+    - Transmission medium bottlenecks fatality
+    - People innately less susceptible to H5N1
+3. Case for .01% - .02%:
+    - Recent flu pandemics were approximatley 0.2%
+    - Known procedure for control
+4. Case for 2-10%:
+    - Case for spanish flu, maybe the procedure won't work
+
+## Other Factors
+1. Animal transmission is enough for human repercussions to commodities markets
+2. Transmission channel through raw milk
+    - hard to quantify
+3. H5N1 vaccines already exist for chickens
+
+## Conclusions
+1. H5N1 is already a threat under control for animals
+2. 5% chance of EOY pandemic, 50% chance before 2030
+3. Probably as sever ase asian flu
